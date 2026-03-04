@@ -3,6 +3,7 @@
 ## Project info
 
 **URL**: https://lovable.dev/projects/43e2ae27-8698-4ca6-bee4-07fa7028b55a
+**URL_new** : https://ai-credit-risk-analyser.lovable.app/
 
 ## How can I edit this code?
 
