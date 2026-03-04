@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL_new** : https://ai-credit-risk-analyser.lovable.app/
+**URL** : https://ai-credit-risk-analyser.lovable.app/
 
 ## How can I edit this code?
 
